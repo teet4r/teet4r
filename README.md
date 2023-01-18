@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋 & Welcome!
+
+- 🌱 I’m currently learning Unity.
 
 <!--
 **teet4r/teet4r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
